@@ -1,0 +1,41 @@
+/* Write your CSS here */
+
+.container {
+  background-color: white;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Bree Serif;
+}
+h1 {
+  color: black;
+}
+.name {
+  color: black;
+
+  background-color: white;
+  padding: 30px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+button {
+  background-color: white;
+  color: #dd1264;
+  border: none;
+  width: 150px;
+  height: 30px;
+  border-radius: 5px;
+}
+.card-cont {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 400px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+ 
+}
